@@ -1,0 +1,23 @@
+# Virtual environment
+flask_thorin/
+
+# key for flashed messages
+env.py
+
+# System folder for the imported env library
+__pycache__/
+
+# IDE specific
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python compiled files
+*.pyc
+
+# Log and temporary files
+*.log
+*.tmp
